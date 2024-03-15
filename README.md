@@ -15,3 +15,8 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+# Descrição do projeto
+ Página para portfólio pessol.
+ Conteudo contem uma página principal com detalhes breves sobre a pessoa, e abaixo links para compartilhamento de redes sociais.
+ 
