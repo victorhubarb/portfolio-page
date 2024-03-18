@@ -22,18 +22,25 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 - `Funcionalidade 3`: Duas páginas conectadas para melhor apresentação de portfólio e também conteúdo centralizando juntamente com a foto nas duas páginas mantendo a organização e fácil leitura do portfólio.
 
 ## Acesso ao projeto
-Acesse o projeto hospedado por [aqui](vercel url) e divirta-se
+Requisitos do projeto:
+ - Ter o seu IDE de preferencia instalado no seu computador.
+
+Acesse o projeto hospedado por [aqui](vercel url) e divirta-se:
  - Projeto hospedado na Vercel.
  - Fácil implementação, [clique]() e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
 
-Tenha o código no seu computador.
- - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page), faça o [download]() do projeto ou até clone o projeto utilizando a URL https://github.com/victorhubarb/portfolio-page.git. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
+Tenha o código no seu computador:
+ - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page) ou faça o [download]() do projeto. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
+
+Clonar repositório com os passos a seguir:
+ 1. Abra o terminal
+ 2. git clone https://github.com/victorhubarb/portfolio-page.git
+ 3. Pressione ENTER para criar o seu clone
 
 ## Tecnologias utilizadas
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Pessoas contribuidoras
-
-
 ## Pessoas desenvolvedoras do projeto
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) |
+| :---: | :---: | :---: |
