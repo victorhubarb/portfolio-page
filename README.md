@@ -24,9 +24,9 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 Requisitos do projeto:
  - Ter o seu IDE de preferencia instalado no seu computador.
 
-Acesse o projeto hospedado por [aqui](vercel url) e divirta-se:
+Acesse o projeto hospedado por [aqui](https://portfolio-page-five-alpha.vercel.app) e divirta-se:
  - Projeto hospedado na Vercel.
- - Fácil implementação, [clique]() e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
+ - Fácil implementação, [clique](https://portfolio-page-five-alpha.vercel.app) e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
 
 Tenha o código no seu computador:
  - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page) ou faça o [download]() do projeto. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
