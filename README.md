@@ -42,4 +42,5 @@ Clonar repositório com os passos a seguir:
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Pessoas desenvolvedoras do projeto
-[Foto de perfil do GitHub](https://avatars.githubusercontent.com/u/80085116?v=4)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80085116?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) |
+| :---: |
