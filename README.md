@@ -22,16 +22,18 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 - `Funcionalidade 3`: Duas páginas conectadas para melhor apresentação de portfólio e também conteúdo centralizando juntamente com a foto nas duas páginas mantendo a organização e fácil leitura do portfólio.
 
 ## Acesso ao projeto
-Você pode acessar o projeto de 2 maneiras:
+Acesse o projeto hospedado por [aqui](vercel url) e divirta-se
+ - Projeto hospedado na Vercel.
+ - Fácil implementação, [clique]() e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
 
-* Acessando o projeto hospedado por [aqui](vercel url) e divirta-se.
-* Acessando o código fonte do projeto [aqui](url código fonte) ou [baixa-lo]. Após uma dessas etapas (e também descompacta-lo em seu computador), abra o projeto em seu IDE de preferência.
+Tenha o código no seu computador.
+ - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page), faça o [download]() do projeto ou até clone o projeto utilizando a URL https://github.com/victorhubarb/portfolio-page.git. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
 
 ## Tecnologias utilizadas
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Pessoas contribuidoras
-https://github.com/camilafernanda
+
 
 ## Pessoas desenvolvedoras do projeto
