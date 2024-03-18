@@ -38,6 +38,3 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 
 
 ## Pessoas desenvolvedoras do projeto
-
-
-## Licença
