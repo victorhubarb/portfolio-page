@@ -18,13 +18,14 @@
 
 ## Descrição do projeto
 
-Página criada para portfólio pessoal, atualmente com duas páginas, uma explicando brevemente sobre a profissão atual e compartilhamento de links para redes sociais, e a segunda página é a página 'sobre mim', tendo um conteúdo mais completo em relação a informações sobre a pessoa. Havendo também a possibilidade de inclusão de uma terceira página por exemplo com o nome 'projetos' contendo até os projetos feitos pela pessoa, assim como utilizando a criatividade para a criação de novas páginas com novos features.
+Página criada para portfólio pessoal, atualmente com duas páginas, uma explicando brevemente sobre a profissão atual e compartilhamento de links para redes sociais, e a segunda página é a página 'sobre mim', tendo um conteúdo mais completo em relação a informações sobre a pessoa. 
+Havendo também a possibilidade de inclusão de uma terceira página por exemplo com o nome 'projetos' contendo até os projetos feitos pela pessoa, assim como utilizando a criatividade para a criação de novas páginas com novos features.
  
 ## Funcionalidades e demonstração da aplicação
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Botões links com acesso diretamente as redes sociais.
+- `Funcionalidade 2`: Página responsiva, com layout executado também para outros tamanhos de tela.
+- `Funcionalidade 3`: Duas páginas conectadas para melhor apresentação de portfólio e também conteúdo centralizando juntamente com a foto nas duas páginas mantendo a organização e fácil leitura do portfólio.
 
 ## Acesso ao projeto
 
