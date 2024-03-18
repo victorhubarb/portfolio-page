@@ -29,7 +29,7 @@ Acesse o projeto hospedado por [aqui](https://portfolio-page-five-alpha.vercel.a
  - Fácil implementação, [clique](https://portfolio-page-five-alpha.vercel.app) e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
 
 Tenha o código no seu computador:
- - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page) ou faça o [download]() do projeto. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
+ - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page) ou faça o [download](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip) do projeto. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
 
 Clonar repositório com os passos a seguir:
  1. Abra o terminal
