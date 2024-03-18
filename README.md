@@ -31,7 +31,7 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 
 
 ## Tecnologias utilizadas
-
+![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Pessoas contribuidoras
 
