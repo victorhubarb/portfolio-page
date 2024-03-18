@@ -1,7 +1,7 @@
 # Portfolio Page
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
-## Índice 
+## Table of Contents 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
@@ -11,30 +11,30 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
-## Descrição do projeto
-Página criada para portfólio pessoal, atualmente com duas páginas, uma explicando brevemente sobre a profissão atual e compartilhamento de links para redes sociais, e a segunda página é a página 'sobre mim', tendo um conteúdo mais completo em relação a informações sobre a pessoa. 
-Havendo também a possibilidade de inclusão de uma terceira página por exemplo com o nome 'projetos' contendo até os projetos feitos pela pessoa, assim como utilizando a criatividade para a criação de novas páginas com novos features.
+## Project Description
+Page created for personal portfolio, currently with two pages, one briefly explaining about the current profession and sharing links to social networks, and the second page is the 'about me' page, having more complete content regarding information about the person.
+There is also the possibility of including a third page, for example with the name 'projects', containing the projects done by the person, as well as using creativity to create new pages with new features.
  
-## Funcionalidades e demonstração da aplicação
-- `Funcionalidade 1`: Botões links com acesso diretamente as redes sociais.
-- `Funcionalidade 2`: Página responsiva, com layout executado também para outros tamanhos de tela.
-- `Funcionalidade 3`: Duas páginas conectadas para melhor apresentação de portfólio e também conteúdo centralizando juntamente com a foto nas duas páginas mantendo a organização e fácil leitura do portfólio.
+## Features and Application Demonstration
+- `Feature 1`: Button links with direct access to social networks.
+- `Feature 2`: Responsive page, with layout executed also for other screen sizes.
+- `Feature 3`: Two connected pages for better portfolio presentation and also content centering along with the photo on both pages maintaining organization and easy reading of the portfolio.
 
-## Acesso ao projeto
-Requisitos do projeto:
- - Ter o seu IDE de preferencia instalado no seu computador.
+## Project Access
+Project requirements:
+ - Have your preferred IDE installed on your computer.
 
-Acesse o projeto hospedado por [aqui](https://portfolio-page-five-alpha.vercel.app) e divirta-se:
- - Projeto hospedado na Vercel.
- - Fácil implementação, [clique](https://portfolio-page-five-alpha.vercel.app) e entre no projeto, experimente de forma fácil e rápida sem precisar baixar os arquivos no seu próprio computador.
+Access the project hosted [here](https://portfolio-page-five-alpha.vercel.app) and have fun:
+ - Project hosted on Vercel.
+ - Easy implementation, [click](https://portfolio-page-five-alpha.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
 
-Tenha o código no seu computador:
- - Acesse o código fonte do projeto [aqui](https://github.com/victorhubarb/portfolio-page) ou faça o [download](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip) do projeto. Após uma dessas etapas, e também descompactá-lo em seu computador em caso de download, abra o projeto em seu IDE de preferência.
+Have the code on your computer:
+ - ccess the project source code [here](https://github.com/victorhubarb/portfolio-page) or download the project [here](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
 
-Clonar repositório com os passos a seguir:
- 1. Abra o terminal
+Clone repository with the following steps:
+ 1. Open the terminal
  2. git clone https://github.com/victorhubarb/portfolio-page.git
- 3. Pressione ENTER para criar o seu clone
+ 3. Press ENTER to create your clone
 
 ## Tecnologias utilizadas
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
