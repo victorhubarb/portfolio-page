@@ -38,4 +38,4 @@
 # Pessoas desenvolvedoras do projeto
 
 
-# Licença (#licença)
+# Licença
