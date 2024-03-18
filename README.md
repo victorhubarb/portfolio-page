@@ -1,7 +1,7 @@
 # Portfolio Page
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
-# Índice 
+## Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
@@ -16,26 +16,26 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-# Descrição do projeto
- Página para portfólio pessol.
- Conteudo contem uma página principal com detalhes breves sobre a pessoa, e abaixo links para compartilhamento de redes sociais.
+## Descrição do projeto
+
+Página criada para portfólio pessoal, atualmente com duas páginas, uma explicando brevemente sobre a profissão atual e compartilhamento de links para redes sociais, e a segunda página é a página 'sobre mim', tendo um conteúdo mais completo em relação a informações sobre a pessoa. Havendo também a possibilidade de inclusão de uma terceira página por exemplo com o nome 'projetos' contendo até os projetos feitos pela pessoa, assim como utilizando a criatividade para a criação de novas páginas com novos features.
  
-# Status do projeto
+## Funcionalidades e demonstração da aplicação
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+
+## Acesso ao projeto
 
 
-# Funcionalidades e demonstração da aplicação
+## Tecnologias utilizadas
 
 
-# Acesso ao projeto
+## Pessoas contribuidoras
 
 
-# Tecnologias utilizadas
+## Pessoas desenvolvedoras do projeto
 
 
-# Pessoas contribuidoras
-
-
-# Pessoas desenvolvedoras do projeto
-
-
-# Licença
+## Licença
