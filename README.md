@@ -43,4 +43,3 @@ Clonar repositório com os passos a seguir:
 
 ## Pessoas desenvolvedoras do projeto
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) |
-| :---: | :---: | :---: |
