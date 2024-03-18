@@ -6,14 +6,11 @@
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
 
 ## Descrição do projeto
 Página criada para portfólio pessoal, atualmente com duas páginas, uma explicando brevemente sobre a profissão atual e compartilhamento de links para redes sociais, e a segunda página é a página 'sobre mim', tendo um conteúdo mais completo em relação a informações sobre a pessoa. 
