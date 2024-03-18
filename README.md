@@ -22,7 +22,10 @@ Havendo também a possibilidade de inclusão de uma terceira página por exemplo
 - `Funcionalidade 3`: Duas páginas conectadas para melhor apresentação de portfólio e também conteúdo centralizando juntamente com a foto nas duas páginas mantendo a organização e fácil leitura do portfólio.
 
 ## Acesso ao projeto
-Você pode acessar o projeto [aqui](vercel url)
+Você pode acessar o projeto de 3 maneiras:
+
+* Acesse o projeto hospedado por [aqui](vercel url) e divirta-se.
+* Acesse o código fonte do projeto [aqui](url código fonte) ou [baixa-lo]. Após uma dessas etapas (e também descompacta-lo em seu computador), abra o projeto em seu IDE de preferência.
 
 ## Tecnologias utilizadas
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
