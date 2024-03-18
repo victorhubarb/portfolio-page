@@ -20,3 +20,22 @@
  Página para portfólio pessol.
  Conteudo contem uma página principal com detalhes breves sobre a pessoa, e abaixo links para compartilhamento de redes sociais.
  
+# Status do projeto
+
+
+# Funcionalidades e demonstração da aplicação
+
+
+# Acesso ao projeto
+
+
+# Tecnologias utilizadas
+
+
+# Pessoas contribuidoras
+
+
+# Pessoas desenvolvedoras do projeto
+
+
+# Licença
