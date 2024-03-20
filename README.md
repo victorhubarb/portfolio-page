@@ -2,14 +2,14 @@
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
 ## Table of Contents 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Title and Cover Image](#title-and-cover-image)
 * [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Table of Contents](#table-of-contents)
+* [Project Description](#project-description)
+* [Features and Application Demonstration](#features-and-application-demonstration)
+* [Project Access](#project-access)
+* [Technologies Used](#technologies-used)
+* [Project Developers](#project-developers)
 
 ## Project Description
 Page created for personal portfolio, currently with two pages, one briefly explaining about the current profession and sharing links to social networks, and the second page is the 'about me' page, having more complete content regarding information about the person.
@@ -36,10 +36,10 @@ Clone repository with the following steps:
  2. git clone https://github.com/victorhubarb/portfolio-page.git
  3. Press ENTER to create your clone
 
-## Tecnologias utilizadas
+## Technologies Used
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Pessoas desenvolvedoras do projeto
+## Project Developers
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80085116?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width=115><br><sub>Alura</sub>](https://github.com/alura-cursos) |
 | :---: | :--: |
