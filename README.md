@@ -12,31 +12,42 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page created for personal portfolio, currently with two pages, one briefly explaining about the current profession and sharing links to social networks, and the second page is the 'about me' page, having more complete content regarding information about the person.
-There is also the possibility of including a third page, for example with the name 'projects', containing the projects done by the person, as well as using creativity to create new pages with new features.
+This Developer Portfolio Page is a sleek and modern web platform designed to showcase the skills, experiences, and professional background of a developer. Currently, the site features a Home page and an About Us page, with potential for expansion to include a Projects page. The design focuses on simplicity and user engagement, providing a clear and accessible way for potential employers or clients to learn about the developer's capabilities and achievements.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: Button links with direct access to social networks.
-- `Feature 2`: Responsive page, with layout executed also for other screen sizes.
-- `Feature 3`: Two connected pages for better portfolio presentation and also content centering along with the photo on both pages maintaining organization and easy reading of the portfolio.
+- **Responsive Navigation Menu**: Includes links to the Home page and About Us page, allowing for easy navigation throughout the site. Future updates could include additional sections like a Projects page.
+- **Home Page**:
+  - **Personal Introduction**: The left side of the page features a brief introduction of the developer, detailing their professional area of expertise and a short bio.
+  - **Profile Picture**: On the right, a professional photo of the developer enhances personal connection with site visitors.
+  - **Social Media Links**: Below the introduction, icons linking to relevant social media platforms (LinkedIn, GitHub, Twitter) enable visitors to connect with the developer on various channels.
+  
+- **About Us Page**:
+  - **Detailed Biography**: This page offers a more comprehensive look at the developer's background, including interests, areas of expertise, and professional journey.
+  - **Visual Engagement**: Similar to the Home page, the layout splits between a textual biography on the left and a personal image on the right, maintaining visual consistency across the site.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://portfolio-page-five-alpha.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://portfolio-page-five-alpha.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: While an IDE like Visual Studio Code is recommended for local development, it is not necessary for accessing the hosted version of the project.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/portfolio-page) or download the project [here](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Explore the Developer Portfolio Page directly through its hosted version on Vercel:
+  - [Visit Portfolio Page](https://portfolio-page-five-alpha.vercel.app) to view the site live. This version is fully interactive and allows you to experience the portfolio as intended without any downloads.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/portfolio-page.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - The source code is hosted on GitHub, and you can view it by visiting the [Portfolio Page repository](https://github.com/victorhubarb/portfolio-page).
+  - To download the project directly, [click here](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip), unzip the file after downloading, and open the project in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/portfolio-page.git
+  cd portfolio-page
+  
+  # You are now ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
